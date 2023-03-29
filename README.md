@@ -1,2 +1,2 @@
-# EE201
+# EE 201
 Computer Hardware Skills
